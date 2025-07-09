@@ -1,1 +1,1 @@
-web: python dropscores.py
+web: python rsn-register.py
